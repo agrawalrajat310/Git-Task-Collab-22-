@@ -6,7 +6,6 @@ Git Task Collaboration -  (Group Number - 22)
 Team Collaboration :-
 
 Your team will consist of 5 members and you need to build 5 different html pages.
-You can find your teams here - Click here
 
 "Student-1 Task-1":
 
