@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> fef8b60e336b5a4abf7a12206cb3d42d0d9bcfe4
 Team Name -->  "GIT-TASK-COLLAB-22"
 
 
@@ -13,5 +16,8 @@ Team Members -->
 4. Prashant Mulukh          -->  Student  Task
 
 5. Meenakshi Singh Thakur   -->  Student  Task
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> fef8b60e336b5a4abf7a12206cb3d42d0d9bcfe4
