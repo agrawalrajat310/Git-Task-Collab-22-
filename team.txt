@@ -6,11 +6,11 @@ Team Members -->
 
 1. Rajat Agrawal            -->  Student 1 Task
 
-2. Anshika Pathak           -->  Student  Task
+2. Anshika Pathak           -->  Student 5 Task
 
-3. Meenakshi Singh Thakur   -->  Student  Task
+3. Meenakshi Singh Thakur   -->  Student 3 Task
 
-4. Prashant Mulukh          -->  Student  Task
+4. Prashant Mulukh          -->  Student 4 Task
 
-5. Dharmendra Yadav         -->  Student  Task
+5. Dharmendra Yadav         -->  Student 2 Task
 
