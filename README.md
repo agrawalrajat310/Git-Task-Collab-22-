@@ -1,20 +1,13 @@
-
-<<<<<<< HEAD
-# Git-Task-Collab-128-
-Git Task Collaboration -  (Group Number - 128)
-=======
 # Git-Task-Collab-22-
 Git Task Collaboration -  (Group Number - 22)
->>>>>>> fef8b60e336b5a4abf7a12206cb3d42d0d9bcfe4
+
 
 
 Team Collaboration :-
 
 Your team will consist of 5 members and you need to build 5 different html pages.
-<<<<<<< HEAD
-You can find your teams here - Click here
-=======
->>>>>>> fef8b60e336b5a4abf7a12206cb3d42d0d9bcfe4
+
+
 
 "Student-1 Task-1":
 
@@ -110,9 +103,3 @@ Run the code and check if all pages are linked correctly from navbar.html page
 
                                             <!--       The End       --> 
 
-
-
-<<<<<<< HEAD
-=======
-
->>>>>>> fef8b60e336b5a4abf7a12206cb3d42d0d9bcfe4
